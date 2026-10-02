@@ -1,6 +1,6 @@
 # Hi there, I'm Amin Suliman 👋
 
-### Founder & Creator of [Gen AI X App](https://genaixapp.com)
+### Founder & Developer of [Gen AI X App](https://genaixapp.com)
 
 ---
 
@@ -13,7 +13,6 @@
 [![Live Platform](https://img.shields.io/badge/Platform-genaixapp.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://genaixapp.com)
 [![AI Agent](https://img.shields.io/badge/Architecture-Autonomous_AI_Agent-purple?style=for-the-badge&logo=openai&logoColor=white)](https://genaixapp.com)
 [![Mobile Apps](https://img.shields.io/badge/Target-iOS_%26_Android-black?style=for-the-badge&logo=apple&logoColor=white)](https://genaixapp.com)
-[![Stack](https://img.shields.io/badge/Built_With-Next.js_%7C_Cloud_Run_%7C_Firebase-orange?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://genaixapp.com)
 
 ---
 
@@ -60,7 +59,7 @@ You describe your product vision, and the AI Agent designs the UI, models state,
 - 📱 **Real-Time Interactive Simulator**: Touch, scroll, test, and interact with the compiled mobile app right inside your browser.
 - 📲 **Instant QR Code On-Device Testing**: Scan a QR code to run the generated native mobile app directly on your physical iPhone or Android device.
 - 🔁 **Self-Healing Compilation Engine**: The AI Agent continuously inspects compiler output, self-corrects build issues, and optimizes performance.
-- 💳 **Production SaaS Infrastructure**: Integrated with Stripe subscriptions, weekly credit ledger with 12-month rollover protection, and Google Cloud Run deployment.
+- 💳 **Production SaaS Infrastructure**: Integrated with credit subscriptions and one-time packs with 12-month rollover protection.
 
 ---
 
